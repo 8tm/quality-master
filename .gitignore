@@ -1,0 +1,27 @@
+# PyCharm
+.idea/
+
+# MyPy
+.mypy_cache/
+
+# PyTest
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+
+# Build
+build/
+dist/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Cache
+__pycache__/
+
+# Other
+*.egg-info/
+*.*~
+*.pyc
